@@ -16,8 +16,8 @@ import numpy as np
 
 """## Create variables for your key and endpoint"""
 
-key = '4ad647ee7bda4413a344d81693c6fbf1'
-endpoint = 'https://mg-cv-531.cognitiveservices.azure.com/'
+key = 'Your key'
+endpoint = 'Your endpoint'
 
 """## Authenticate the client"""
 
