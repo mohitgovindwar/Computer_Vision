@@ -99,5 +99,3 @@ read_handwritten_text("notes1.jpg")
 read_handwritten_text("notes2.jpg")
 
 read_handwritten_text("notes3.jpg")
-
-read_handwritten_text("notes4.jpg")
